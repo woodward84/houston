@@ -1,8 +1,12 @@
 body {
-    background-color: gray;
+    background-color: yellowgreen;
 }
 
 h1, h2, h3{
     font-family: Verdana;
     text-align: center;
+}
+
+body{
+text-align: center;
 }
