@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 h1, h2, h3{
@@ -24,5 +24,13 @@ table{
     margin: auto;
 }
 
+ol{
+    list-style-position: inside;
+}
 
+ul{
+    list-style-position: inside;
+    list-style-type: square;
+    
+}
 
